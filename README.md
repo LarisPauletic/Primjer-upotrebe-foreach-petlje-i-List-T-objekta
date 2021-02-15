@@ -1,0 +1,1 @@
+# Primjer-upotrebe-foreach-petlje-i-List-T-objekta
