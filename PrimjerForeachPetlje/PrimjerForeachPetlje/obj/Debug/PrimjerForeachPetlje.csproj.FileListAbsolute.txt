@@ -1,0 +1,7 @@
+C:\Users\Laris\source\repos\PrimjerForeachPetlje\PrimjerForeachPetlje\bin\Debug\PrimjerForeachPetlje.exe.config
+C:\Users\Laris\source\repos\PrimjerForeachPetlje\PrimjerForeachPetlje\bin\Debug\PrimjerForeachPetlje.exe
+C:\Users\Laris\source\repos\PrimjerForeachPetlje\PrimjerForeachPetlje\bin\Debug\PrimjerForeachPetlje.pdb
+C:\Users\Laris\source\repos\PrimjerForeachPetlje\PrimjerForeachPetlje\obj\Debug\PrimjerForeachPetlje.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\PrimjerForeachPetlje\PrimjerForeachPetlje\obj\Debug\PrimjerForeachPetlje.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\PrimjerForeachPetlje\PrimjerForeachPetlje\obj\Debug\PrimjerForeachPetlje.exe
+C:\Users\Laris\source\repos\PrimjerForeachPetlje\PrimjerForeachPetlje\obj\Debug\PrimjerForeachPetlje.pdb
